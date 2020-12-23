@@ -22,7 +22,6 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * Typesafe custom configuration.
  *
- * @author Maciej Szarlinski
  */
 @Data
 @ConfigurationProperties(prefix = "vets")
